@@ -1,2 +1,2 @@
 # Teaching
-Some of the stuff I use for teaching/demonstration.
+Stuf for teaching/demonstration.

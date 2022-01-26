@@ -1,2 +1,2 @@
 # Teaching
-Stuf for teaching/demonstration.
+Stuff for teaching/demonstration.
